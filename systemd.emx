@@ -3,7 +3,7 @@
 <!--Rational Software Architect Designer 9.6.1-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SketchNotation="http://www.ibm.com/ccl/soa/sketch/notation/1.0.0/" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
   <uml:Package xmi:id="_SiCx0IfAEeyBtNWtNidC-A" name="systemd">
     <eAnnotations xmi:id="_SiCx0YfAEeyBtNWtNidC-A" source="uml2.diagrams" references="_SiCx0ofAEeyBtNWtNidC-A">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_SiCx0ofAEeyBtNWtNidC-A" type="Freeform" name="Systemd Overview">
@@ -97,25 +97,6 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_jSdZw4hqEeyBtNWtNidC-A" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_jSdZxIhqEeyBtNWtNidC-A" visible="false" type="StructureCompartment"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jScysYhqEeyBtNWtNidC-A" x="19800" y="19360"/>
-        </children>
-        <children xmi:id="_PMwsYKQtEeyG-tmmmXTQKQ" type="sktitle">
-          <children xmi:id="_PMzIoKQtEeyG-tmmmXTQKQ" type="skshapes">
-            <styles xmi:type="notation:DrawerStyle" xmi:id="_PMzIoaQtEeyG-tmmmXTQKQ"/>
-            <styles xmi:type="notation:TitleStyle" xmi:id="_PMzIoqQtEeyG-tmmmXTQKQ"/>
-            <styles xmi:type="notation:DrawerStyle" xmi:id="_PMzIo6QtEeyG-tmmmXTQKQ"/>
-            <styles xmi:type="notation:TitleStyle" xmi:id="_PMzIpKQtEeyG-tmmmXTQKQ"/>
-            <element xsi:nil="true"/>
-          </children>
-          <children xmi:id="_PMzvsKQtEeyG-tmmmXTQKQ" type="skdescription">
-            <element xsi:nil="true"/>
-          </children>
-          <styles xmi:type="notation:ShapeStyle" xmi:id="_PMwsYaQtEeyG-tmmmXTQKQ" fontHeight="18" description="Systemd" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
-          <styles xmi:type="notation:LineTypeStyle" xmi:id="_PMwsYqQtEeyG-tmmmXTQKQ"/>
-          <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_PMwsY6QtEeyG-tmmmXTQKQ"/>
-          <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_PMwsZKQtEeyG-tmmmXTQKQ"/>
-          <styles xmi:type="notation:TextStyle" xmi:id="_PMwsZaQtEeyG-tmmmXTQKQ" textAlignment="Center"/>
-          <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PMwsZqQtEeyG-tmmmXTQKQ" x="4527" y="5264"/>
         </children>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_nlpHcIfAEeyBtNWtNidC-A" element="_nlQs8IfAEeyBtNWtNidC-A" source="_dTDdUIfAEeyBtNWtNidC-A" target="_XaypcIfAEeyBtNWtNidC-A" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_nlpHcofAEeyBtNWtNidC-A" type="NameLabel">
